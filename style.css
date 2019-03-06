@@ -1,0 +1,29 @@
+/*{transition: all .1s ease-in;} */
+
+body{
+    font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+    font-size: 14px;
+    width: calc(100vw - 40px);
+    height: calc(100vh - 40px);
+    border: 20px solid #2B81ac;
+    color: #ffffff
+
+}
+
+header, main, footer {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header h1{
+    font-size: 24px;
+}
+
+ul{
+    list-style-type: none;
+    font-size: 18px;
+}
+
+footer{
+    font-size: 14px;
+}
